@@ -2,10 +2,10 @@ package models
 
 import (
 	"encoding/json"
-	"time"
+	_"time"
 
 	"github.com/gobuffalo/pop"
-	"github.com/gobuffalo/uuid"
+	_"github.com/gobuffalo/uuid"
 	"github.com/gobuffalo/validate"
 )
 
